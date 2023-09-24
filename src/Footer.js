@@ -5,7 +5,7 @@ export default function Footer() {
     <small>
       <a
         href="https://github.com/IncryT/Weather"
-        target="blank"
+        target="_blank" rel="noreferrer"
         class="sourceCode"
       >
         Open-Source Code
