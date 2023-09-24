@@ -13,7 +13,7 @@ export default function current() {
           <div>
             <strong id="temperature">75</strong>
             <span className="units">
-              <a href="#" className="active">
+              <a href="#" target="_blank" rel="noreferrer" className="active">
                 °F
               </a>{" "}
             </span>
